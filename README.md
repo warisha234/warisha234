@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @warisha234
+- 👋 Hi, I’m warisha turab
 - 👀 I’m interested in web development, UI/UX design, and calligraphy.
 - 🌱 I’m currently learning advanced CSS, and Next.js.
 - 💞️ I’m looking to collaborate on front-end projects, especially those involving responsive design and creative layouts.
