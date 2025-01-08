@@ -23,7 +23,7 @@
 
 ### 🌐 Let's Connect:
 - 📫 **Email**: [warishaturab@gmail.com](mailto:warishaturab@gmail.com)  
-- 💼 **LinkedIn**: [Warisha Turab](https://www.linkedin.com/in/warisha-turab)  
+- 💼 **LinkedIn**: [Warisha Turab](https://www.linkedin.com/in/warisha-turab-8666b82b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
