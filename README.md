@@ -1,8 +1,9 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/web-development-programming-code-testing-ui-concept-with-laptop-displaying-futuristic-code_375605-307.jpg?w=826" alt="Profile Picture" style="border-radius:50%" width="600">
-  <h1>Hi, I'm Warisha Turab</h1>
+   <h1>Hi, I'm Warisha Turab</h1>
   <p><em>Web Developer | UI/UX Designer | Calligraphy Enthusiast</em></p>
+  <img src="https://img.freepik.com/premium-vector/web-development-programming-code-testing-ui-concept-with-laptop-displaying-futuristic-code_375605-307.jpg?w=826" alt="Profile Picture" style="border-radius:50%" width="600">
+ 
 </div>
 
 ---
