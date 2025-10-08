@@ -1,63 +1,98 @@
+<!-- Header / Typing Animation -->
 <div align="center">
-    <a href="https://github.com/warisha234">
-        <img src="https://komarev.com/ghpvc/?username=warisha234&style=for-the-badge&color=blue" alt="Profile views">
-    </a>
-    <a href="mailto:warishaturab@gmail.com">
-        <img src="https://img.shields.io/badge/Email-warishaturab@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-    </a>
-
-    <h1>Hi there! I'm Warisha Turab 💻✨</h1>
-    <p><em>Web Developer | UI/UX Designer | Calligraphy Enthusiast</em></p>
-    
-    <img src="https://img.freepik.com/premium-vector/web-development-programming-code-testing-ui-concept-with-laptop-displaying-futuristic-code_375605-307.jpg?w=826" alt="Web Development Concept" style="border-radius:10px; max-width: 90%; height: auto; margin-top: 15px;">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Warisha+Turab!;Web+Developer+%7C+UI%2FUX+Designer;Calligraphy+Enthusiast+%F0%9F%8D%8B" alt="Typing" />
+  </h1>
+  <p><em>✨ Frontend Developer • Next.js Learner • UI/UX & Calligraphy Enthusiast ✨</em></p>
+  <img src="https://img.freepik.com/premium-vector/web-development-programming-code-testing-ui-concept-with-laptop-displaying-futuristic-code_375605-307.jpg?w=826" alt="Profile" style="border-radius:12px; max-width:95%;" />
 </div>
 
 ---
 
-### 👀 About Me:
-- 🌟 Passionate about creating **interactive and user-friendly web designs**. 
-- 💻 Currently diving deep into **Advanced CSS** and **Next.js**. 
-- 🎨 I love combining **aesthetics and functionality** in my projects. 
-- 🖋️ Fun Fact: I have *excellent Urdu handwriting* (calligraphy) and enjoy teaching! 
-- 🚀 Always ready to explore new technologies and build something beautiful. 
+<!-- Social / Badges -->
+<p align="center">
+  <a href="mailto:warishaturab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/warisha-turab-8666b82b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://personal-portfolio-with-nextjs-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/warisha234"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 🛠️ My Tech Stack (Skills):
+<!-- Two-column like layout using table: left = intro + trophies, right = stats & graphs -->
+<table width="100%">
+<tr>
+  <!-- LEFT COLUMN -->
+  <td width="40%" valign="top">
+    
+### 👋 About Me
+- 🌟 Passionate about interactive, user-friendly web designs.  
+- 💻 Learning **Advanced CSS** & **Next.js**.  
+- 🖋️ Excellent Urdu handwriting — calligraphy enthusiast.  
+- 🎯 Building projects to improve UI/UX skills.
+
+### 🏅 Achievements / Trophies
+<p align="center">
+  <!-- profile trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=warisha234&theme=darkhub&row=1&column=4" alt="Trophies" />
+</p>
+
+### 🔗 Quick Links
+- Email: warishaturab@gmail.com  
+- Portfolio: personal-portfolio-with-nextjs-two.vercel.app  
+- Location: Pakistan
+
+  </td>
+
+  <!-- RIGHT COLUMN -->
+  <td width="60%" valign="top">
+
+<!-- Welcome and short intro card -->
+<p align="center" style="background:#0b1220; padding:18px; border-radius:8px;">
+  <b style="font-size:18px; color:#8ef5ff;">💬 Hey Everyone, I'm Warisha</b><br>
+  <span style="color:#9aa7b2">Welcome to my GitHub Universe — building, learning, and creating beautiful UI.</span>
+</p>
+
+<!-- Top stats row -->
+<p align="center">
+  <!-- GitHub stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=warisha234&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warisha234&theme=dark&hide_border=true" alt="Streak Stats" width="48%" />
+</p>
+
+<!-- Contribution graph -->
+<p align="center">
+  <!-- GH Chart -->
+  <img src="https://ghchart.rshah.org/warisha234" alt="Contribution Graph" style="max-width:100%; border-radius:6px;" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisha234&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=warisha234&range=last_7_days&theme=dark&hide_border=true" alt="WakaTime (if available)" width="48%" />
+</p>
+
+  </td>
+</tr>
+</table>
+
+---
+
+### 🔭 Projects & Highlights
+- 📌 **Personal Portfolio** — Next.js, Tailwind CSS (Deployed on Vercel)  
+- 🧩 HTML/CSS/JS Projects — Calculator, Image Gallery, OTP Verification, Mini Games  
+- 🎓 Learning: Advanced CSS, Responsive UI, Accessibility
+
+---
+
+### 📈 More Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=warisha234&theme=react-dark" alt="Activity Graph" style="max-width:100%; border-radius:8px;" />
+</p>
+
+---
+
 <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-    
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-</div>
-
----
-
-### 📈 Experience & Journey:
-* **2023 - Present**: Started my journey in Web Development, focusing on foundational skills.
-* **🌐 Projects**: Successfully built multiple **HTML, CSS, and JavaScript** projects (beginner to intermediate level).
-* **✨ Modern Stack**: Explored and worked on advanced UI/UX designs using **Next.js & Tailwind CSS**.
-* **🚀 Portfolio**: Designed and deployed my personal portfolio to showcase my work.
-
----
-
-### 🔗 Let's Connect & View My Work:
-| Contact | Portfolio |
-| :---: | :---: |
-| 📧 **Email**: warishaturab@gmail.com | 🌐 **Portfolio**: [![Portfolio Badge](https://img.shields.io/badge/My_Portfolio-Visit_Now-blue?style=for-the-badge&logo=vercel)](https://personal-portfolio-with-nextjs-two.vercel.app/) |
-| 💼 **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warisha-turab-8666b82b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
-| 📚 **Languages**: Urdu (Excellent), English |
-
----
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=warisha234&show_icons=true&theme=prussian&hide_border=true" alt="Warisha's GitHub Stats" style="max-width: 100%;">
-    
-    <br><br>
-    
-    <h3>✨ Thank you for visiting my profile! Let's build something amazing together. ✨</h3>
+  <h3>✨ Thank you for visiting my profile! ✨</h3>
 </div>
