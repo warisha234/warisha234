@@ -2,7 +2,7 @@
 <div align="center">
    <h1>Hi, I'm Warisha Turab</h1>
   <p><em>Web Developer | UI/UX Designer | Calligraphy Enthusiast</em></p>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pulseforgood.com%2Fblogpost%2F10-ways-technology-is-revolutionizing-social-impact&psig=AOvVaw2inpP9_la4SCCdX1dmpaxp&ust=1759999487818000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDr-JqblJADFQAAAAAdAAAAABAE" alt="Profile Picture" style="border-radius:50%" width="600">
+ <img src="https://img.freepik.com/premium-vector/web-development-programming-code-testing-ui-concept-with-laptop-displaying-futuristic-code_375605-307.jpg?w=826" alt="Profile Picture" style="border-radius:50%" width="600">
  
 </div>
 
