@@ -87,6 +87,6 @@
   
 ✨ *Thanks for visiting! Drop a ⭐ if you like my work!* ✨  
 <br><br>
-<img src="https://img.shields.io/badge/💙%20Made%20with%20passion%20by-Zifra%20Firdous-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💙%20Made%20with%20passion%20by-Warisha%20Turab-blue?style=for-the-badge"/>
 
 </div>
