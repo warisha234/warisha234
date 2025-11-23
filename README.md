@@ -8,7 +8,7 @@
 
 <!-- Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alethea-dev/neon-lines/main/blue.gif" width="80%" />
+  <img align="right" width="400px" src="./output-onlinegiftools.gif">
 </p>
 
 <!-- Neon Image Glow -->
