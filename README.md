@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Neon Gradient Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Warisha+Turab;Frontend+Developer;Neon+UI+Designer;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Warisha+Turab;Full+Stack+Developer;Neon+UI+Designer;Welcome+to+My+GitHub!" />
 
 </div>
 
@@ -28,8 +28,8 @@
 
 ## 🌸 About Me
 - 🌱 Currently mastering **Frontend Engineering**
-- ⚙️ Tech Stack: **HTML | CSS | JavaScript | Next.js | TypeScript | Bootstrap | Tailwind | React.js | Figma | Python**
-- 💎 Passion: *Animated UI, Clean Layouts & Neon Themes*
+- ⚙️ Tech Stack: **HTML | CSS | JavaScript | TypeScript | Next.js | React.js | Bootstrap | Tailwind CSS | Figma | Git | GitHub | Python | Sass | Redux | Node.js (Basics) | Firebase**
+- 💎 Passion: *Animated UI, Clean Layouts & Responsive*
 - 💌 Email: **warishaturab@gmail.com**
 - 😄 Fun Fact: *I don’t find bugs… bugs find me 😆*
 
@@ -57,7 +57,7 @@
 
 ---
 
-## ⚡ GitHub Stats (Neon Blue)
+## ⚡ GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=warisha234&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisha234&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" height="170" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 🌊 Contribution Flow (Neon Glow)
+## 🌊 Contribution Flow 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=warisha234&bg_color=000000&color=00D9FF&line=00E5FF&point=00FFFF&area=true&hide_border=true" />
 </p>
@@ -73,7 +73,7 @@
 ---
 
 ## 💬 Quote of the Day
-> 🌟 **“First, solve the problem. Then, write the code beautifully.”**  
+> 🌟 **“Code is not just logic — it’s art in motion.”**  
 > — *Warisha Turab*
 
 ---
