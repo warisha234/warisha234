@@ -14,7 +14,7 @@
 
 <!-- Neon Image Glow -->
 <div align="center">
-   <img align="right" width="400px" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+   <img src="https://i.giphy.com/media/mJzKn0z9GGkkjRhrI5/giphy.gif" width="400px" />
 
 </div>
 
