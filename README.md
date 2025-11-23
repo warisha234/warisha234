@@ -1,40 +1,46 @@
 <div align="center">
 
-<!-- Animated Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Warisha+Turab;Frontend+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" />
+<!-- Animated Neon Gradient Heading -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Warisha+Turab;Frontend+Developer;Neon+UI+Designer;Welcome+to+My+GitHub!" />
 
 </div>
 
-<hr style="border: 2px solid #00CFFF; width: 80%; margin:auto;">
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alethea-dev/neon-lines/main/blue.gif" width="80%" />
+</p>
 
+<!-- Neon Image Glow -->
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1257568481/vector/program-code-create-on-laptop-on-programmer-workplace-coding-optimization-and-testing-app.jpg?s=612x612&w=0&k=20&c=-mAtowABw5Ofdn3Q120nlblkioCrqKSZX5uzjifnqIg=" width="800" height="400"/>
+  <img src="https://media.istockphoto.com/id/1257568481/vector/program-code-create-on-laptop-on-programmer-workplace-coding-optimization-and-testing-app.jpg?s=612x612&w=0&k=20&c=-mAtowABw5Ofdn3Q120nlblkioCrqKSZX5uzjifnqIg=" width="800" height="400" style="border-radius: 12px; box-shadow: 0 0 25px #00D9FF;" />
 </div>
 
+<br />
+
 <div align="center">
-  
-💙✨ **“Designing the Web with Creativity & Code.”** ✨💙  
-🔥 *Building responsive, animated and modern UIs.* 🔥  
+
+🌐💙 **“Designing the Web with Creativity, Motion & Neon Glow.”**  
+⚡ *I create modern, aesthetic & animated UI/UX.* ⚡  
 
 </div>
 
 ---
 
-### 🌸 About Me
-- 🌱 Currently mastering **Frontend Development**
-- ⚙️ Tech Stack: **HTML | CSS | JavaScript | Next.js | TypeScript | Bootstrap | Tailwind | Figma | React.js | Python**
-- 🎯 Goal: *To build websites that blend design with performance*
+## 🌸 About Me
+- 🌱 Currently mastering **Frontend Engineering**
+- ⚙️ Tech Stack: **HTML | CSS | JavaScript | Next.js | TypeScript | Bootstrap | Tailwind | React.js | Figma | Python**
+- 💎 Passion: *Animated UI, Clean Layouts & Neon Themes*
 - 💌 Email: **warishaturab@gmail.com**
-- 💫 Fun Fact: *My code sometimes laughs at my bugs 😆*
+- 😄 Fun Fact: *I don’t find bugs… bugs find me 😆*
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/warisha-turab-8666b82b6/" target="_blank">
     <img src="https://img.icons8.com/nolan/96/linkedin.png" width="50"/>
   </a>
-  <a href="https://github.com/warisha234/warisha234" target="_blank">
+  <a href="https://github.com/warisha234" target="_blank">
     <img src="https://img.icons8.com/nolan/96/github.png" width="50"/>
   </a>
   <a href="mailto:warishaturab@gmail.com">
@@ -44,46 +50,42 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,vscode,figma,python" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats (Neon Blue)
+## ⚡ GitHub Stats (Neon Blue)
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=warisha234&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" height="165"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisha234&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" height="165"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=warisha234&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisha234&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" height="170" />
 </p>
 
 ---
 
-### 🌊 Contribution Flow (Neon Blue)
+## 🌊 Contribution Flow (Neon Glow)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warisha234&bg_color=0D1117&color=00CFFF&line=00E5FF&point=67E8F9&area=true&hide_border=true" alt="Warisha Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warisha234&bg_color=000000&color=00D9FF&line=00E5FF&point=00FFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 💬 Quote of the Day
-> “First, solve the problem. Then, write the code beautifully.”  
+## 💬 Quote of the Day
+> 🌟 **“First, solve the problem. Then, write the code beautifully.”**  
 > — *Warisha Turab*
 
 ---
 
 <div align="center">
-  
-💙✨ *Thanks for visiting! Drop a ⭐ if you like my work!* ✨💙  
-<br><br>
-<img src="https://img.shields.io/badge/💙%20Made%20with%20passion%20by-Warisha%20Turab-00D9FF?style=for-the-badge"/>
+
+<img src="https://raw.githubusercontent.com/alethea-dev/neon-lines/main/blue.gif" width="80%" />
+
+<br /><br />
+
+✨💙 *Thanks for visiting — Drop a ⭐ to support!* 💙✨  
+<br />
+<img src="https://img.shields.io/badge/Made%20with%20💙%20by-Warisha%20Turab-00D9FF?style=for-the-badge" />
 
 </div>
