@@ -1,92 +1,61 @@
-
-
-<div align="center">
-
-<!-- Animated Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Warisha+Turab;Frontend+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" />
-
-</div>
-<hr style="border: 2px solid #1E90FF; width: 80%; margin:auto;">
-<div align="center">
-  <img src="https://media.istockphoto.com/id/1257568481/vector/program-code-create-on-laptop-on-programmer-workplace-coding-optimization-and-testing-app.jpg?s=612x612&w=0&k=20&c=-mAtowABw5Ofdn3Q120nlblkioCrqKSZX5uzjifnqIg=" width="800" hight="400"/>
-</div>
-
-
-<div align="center">
-  
-✨ **“Designing the Web with Creativity & Code.”** ✨  
-💙 *Building responsive, animated and modern UIs.* 💙  
-
-</div>
-
----
-
-### 🌸 About Me
-- 🌱 Currently mastering **Frontend Development**
-- ⚙️ Tech Stack: *HTML | CSS | JavaScript | Next.js | TypeScript /Bootstrap /tailwind /figma /react.js /python*
-- 🎯 Goal: *To build websites that blend design with performance*
-- 💌 Email: **warishaturab@gmail.com**
-- 💫 Fun Fact: *My code sometimes laughs at my bugs 😆*
-
----
-
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/warisha-turab-8666b82b6/" target="_blank">
-    <img src="https://img.icons8.com/nolan/96/linkedin.png" width="50"/>
-  </a>
-  <a href="https://github.com/warisha234/warisha234" target="_blank">
-    <img src="https://img.icons8.com/nolan/96/github.png" width="50"/>
-  </a>
-  <a href="mailto:warishaturab@gmail.com.com">
-    <img src="https://img.icons8.com/nolan/96/gmail-new.png" width="50"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,vscode,figma" />
-</p>
-
----
-
-### ⚡ GitHub Stats
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=warisha234&show_icons=true&theme=blue_navy&hide_border=true&title_color=00BFFF&icon_color=00BFFF" height="165"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisha234&layout=compact&theme=blue_navy&hide_border=true&title_color=00BFFF" height="165"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
-
-
----
-
-### 🌊 Contribution Flow
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warisha234&bg_color=0D1117&color=1E90FF&line=00BFFF&point=38BDF8&area=true&hide_border=true" alt="Zifra's Contribution Graph"/>
-</p>
-
----
-
-### 💬 Quote of the Day
-> “First, solve the problem. Then, write the code beautifully.”  
-> — *Warisha Turab*
-
----
-
-<div align="center">
-  
-✨ *Thanks for visiting! Drop a ⭐ if you like my work!* ✨  
-<br><br>
-<img src="https://img.shields.io/badge/💙%20Made%20with%20passion%20by-Warisha%20Turab-blue?style=for-the-badge"/>
-
-</div>
+ Warisha Turab — Web Developer (Neon Theme)
+<p align="center"> <img src="https://img.shields.io/badge/Neon–Glow–ff2d95?style=for-thebadge&logo=github" alt="neon-badge" /> </p>
+ About Me
+Assalamualaikum! Main Warisha Turab hoon — web developer, Next.js learner aur UI/UX enthusiast. Main
+Virtual University se Mass Communication kar rahi hoon aur sath sath programming aur web development
+seekh rahi hoon. Urdu, mathematics aur calligraphy mein bhi dilchaspi hai.
+"Design se pehle samajhna zaroori hai — phir hi achha UI/UX banta hai."
+ Quick Facts
+ Currently building projects using HTML, CSS, Tailwind, JavaScript, TypeScript, Next.js
+ Studying Mass Communication (Virtual University)
+ Interests: UI/UX, Calligraphy, Urdu, Mathematics
+ Tools: VSCode, Git, GitHub, Figma
+ Contact: your-email@example.com (replace with your email)
+ Skills
+Frontend: HTML • CSS • Tailwind • JavaScript • TypeScript
+Frameworks: React • Next.js
+Design: Figma • Responsive Design • UI/UX Basics
+Other: Git • GitHub • Basic Accessibility
+ Featured Projects
+Portfolio Website — Responsive personal portfolio made with Next.js and Tailwind.
+Chat App — Simple group chat UI using HTML, CSS, JavaScript. (Presentation ready)
+Travel Website — Static responsive travel landing page (HTML & CSS).
+Tic-Tac-Toe Game — JavaScript game project for learning DOM & logic.
+(Replace these with your repo links and short descriptions.)
+•
+•
+•
+•
+•
+•
+•
+•
+•
+1
+ GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="github-stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="top-langs" /> </p>
+ Badges & Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&no-frame=true&margin-w=7" alt="trophies" /> </p>
+ Connect With Me
+Website / Portfolio: https://your-portfolio.com
+LinkedIn: https://www.linkedin.com/in/your-linkedin
+Email: your-email@example.com
+ Neon Footer
+<p align="center"> <sub>Made with by Warisha Turab — Learning one pixel at a time.</sub> </p>
+ How to use
+Replace all YOUR-USERNAME , your-email@example.com , and portfolio/LinkedIn links with your
+real info.
+Add direct links to each project (use
+- [Project Name](https://github.com/YOUR-USERNAME/repo) format).
+If you want different badge colors or themes, visit https://github.com/anuraghazra/githubreadme-stats and https://github.com/ryo-ma/github-profile-trophy for
+customization.
+Agar chaho to main yeh file tumhari GitHub info ke saath customize kar ke direct ready kar
+dun — bas apna GitHub username, email, aur portfolio link bhej do.
+•
+•
+•
+1.
+2.
+3.
+2
