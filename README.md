@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Neon Gradient Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Lucida Handwriting&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Warisha+Turab;Full+Stack+Developer;Neon+UI+Designer;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Warisha+Turab;Full+Stack+Developer;Neon+UI+Designer;Welcome+to+My+GitHub!" />
+
 
 </div>
 
