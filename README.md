@@ -7,13 +7,15 @@
 </div>
 
 <!-- Neon Divider -->
-<p align="center">
-  <img align="right" width="400px" src="./output-onlinegiftools.gif">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/alethea-dev/neon-lines/main/blue.gif" width="80%" />
 </p>
+
 
 <!-- Neon Image Glow -->
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1257568481/vector/program-code-create-on-laptop-on-programmer-workplace-coding-optimization-and-testing-app.jpg?s=612x612&w=0&k=20&c=-mAtowABw5Ofdn3Q120nlblkioCrqKSZX5uzjifnqIg=" width="800" height="400" style="border-radius: 12px; box-shadow: 0 0 25px #00D9FF;" />
+   <img align="right" width="400px" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+
 </div>
 
 <br />
