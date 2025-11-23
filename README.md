@@ -14,7 +14,7 @@
 
 <!-- Neon Image Glow -->
 <div align="center">
-   <img src="https://i.giphy.com/media/mJzKn0z9GGkkjRhrI5/giphy.gif" width="400px" />
+  <img src="https://media.istockphoto.com/id/1257568481/vector/program-code-create-on-laptop-on-programmer-workplace-coding-optimization-and-testing-app.jpg?s=612x612&w=0&k=20&c=-mAtowABw5Ofdn3Q120nlblkioCrqKSZX5uzjifnqIg=" width="800" height="400" style="border-radius: 12px; box-shadow: 0 0 25px #00D9FF;" />
 
 </div>
 
