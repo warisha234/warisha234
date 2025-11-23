@@ -52,7 +52,8 @@
 
 ## 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,vscode,figma,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma,python,postman,vercel,npm" />
+
 </p>
 
 ---
