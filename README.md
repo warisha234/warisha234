@@ -1,4 +1,4 @@
-<div align="center">
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/5aa5fda5-b5d5-40d3-8ad8-25b3bfdef8a1" /><div align="center">
 
 <!-- Animated Neon Gradient Heading -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Warisha+Turab;Full+Stack+Developer;Neon+UI+Designer;Welcome+to+My+GitHub!" />
@@ -7,12 +7,15 @@
 </div>
 
 <!-- Neon Divider -->
- 
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00d9ff,100:00fff2" width="70%" />
+</p>
+
 
 
 <!-- Neon Image Glow -->
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1257568481/vector/program-code-create-on-laptop-on-programmer-workplace-coding-optimization-and-testing-app.jpg?s=612x612&w=0&k=20&c=-mAtowABw5Ofdn3Q120nlblkioCrqKSZX5uzjifnqIg=" width="800" height="400" style="border-radius: 12px; box-shadow: 0 0 25px #00D9FF;" />
+  <img src="https://i.pinimg.com/1200x/ac/15/da/ac15dae3e1ebe1a151b26de806db9999.jpg" width="800" height="400" style="border-radius: 12px; box-shadow: 0 0 25px #00D9FF;" />
 
 </div>
 
