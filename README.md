@@ -7,9 +7,7 @@
 </div>
 
 <!-- Neon Divider -->
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/alethea-dev/neon-lines/main/blue.gif" width="80%" />
-</p>
+ 
 
 
 <!-- Neon Image Glow -->
