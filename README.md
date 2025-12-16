@@ -15,7 +15,7 @@
 
 <!-- Neon Image Glow -->
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/ea/04/c3/ea04c3a9981c363aab20fe8b318c0a81.jpg" width="800" height="400" style="border-radius: 12px; box-shadow: 0 0 25px #00D9FF;" />
+  <img src="https://i.pinimg.com/1200x/78/6b/b5/786bb523dc100e6a2fc49d8cbe07807e.jpg" width="800" height="400" style="border-radius: 12px; box-shadow: 0 0 25px #00D9FF;" />
 
 </div>
 
