@@ -1,5 +1,5 @@
 <!-- <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/5aa5fda5-b5d5-40d3-8ad8-25b3bfdef8a1" /><div align="center"> -->
-
+<div align="center">
 <!-- Animated Neon Gradient Heading -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Warisha+Turab;Full+Stack+Developer;UI+UX+Designer;Welcome+to+My+GitHub!" />
 
